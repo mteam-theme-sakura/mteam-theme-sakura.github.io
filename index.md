@@ -13,6 +13,14 @@ layout: default
 
 写代码不难，难的是不被当工具人。
 
+# 在哪可以找回这个主题？
+
+Github：https://github.com/mteam-theme-sakura/theme
+
+油猴：https://greasyfork.org/zh-CN/scripts/537730
+
+项目官网：https://github.com/mteam-theme-sakura
+
 # 用爱发电的代价
 
 在我人生中最扭曲的决定之一，大概就是某天脑抽去给一个 PT 站白打工。
